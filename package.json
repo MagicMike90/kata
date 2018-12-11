@@ -1,0 +1,11 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MagicMike90/kata.git",
+  "author": "Michael Luo <mluo@seven.com.au>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
